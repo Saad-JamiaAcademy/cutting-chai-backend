@@ -1,3 +1,5 @@
-# Cutting chai with special one ,and backend
-this is the cutting chai and backend with student and javascript
--[Model link]
+# Cutting chai with special one and backend
+
+This is a cutting chai backend project built using JavaScript for students.
+
+- [Model link]
